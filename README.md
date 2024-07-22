@@ -6,9 +6,19 @@
  ----------------------------------------------------------------- 
 
 
-Hi there! Welcome to AWS Cloud9!
+# 🕯️ **Ejercicios Básicos de Python - AWS re/Start Program** 🕯️
 
-To get started, create some files, play with the terminal,
-or visit https://docs.aws.amazon.com/console/cloud9/ for our documentation.
+Bienvenidos al repositorio oficial de ejercicios de Python para el programa AWS re/Start, diseñado para introducir a los participantes en los fundamentos de la programación en Python.
 
-Happy coding!
+## **Descripción del Curso** 🕸️️🕷🧟
+
+Este curso proporciona una introducción práctica a la programación en Python, cubriendo conceptos fundamentales como estructuras de datos, control de flujo, funciones y manejo de errores. A través de ejercicios prácticos, los participantes adquirirán habilidades esenciales para la programación y el desarrollo de software. 
+
+⚠️ **Advertencia**: Al igual que una buena historia de terror, ¡la programación puede ser adictiva y llena de sorpresas!
+
+## **Uso del Repositorio** 👻🍷🧛
+
+Este repositorio está organizado por sesiones, cada una con su conjunto de ejercicios y ejemplos correspondientes. Para empezar a utilizarlo, clone este repositorio en su entorno Cloud9:
+
+```bash
+git clone git remote add origin https://github.com/Fernando-gn/aws-restart.git
